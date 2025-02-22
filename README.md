@@ -20,7 +20,7 @@ A partir de trechos do texto, gerei os prompts para geração das imagens no Fre
 
 ## 🚀 Resultados
 Um ebook com informações básicas, mas aprofundadas, sobre os impactos da IA no design gráfico.
-Veja o ebook (https://ricardosahara.com.br/DIO/ebook_design_IA.pdf)
+Veja o ebook [aqui](https://ricardosahara.com.br/DIO/ebook_design_IA.pdf)
 
 
 ## Links Interessantes
